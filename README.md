@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Joyce XU
-- 💼 Here is my portfolio link: https://drive.google.com/drive/folders/1X4I3a8qs60QesiaoqrsJ_1wTPoOr0owu?usp=share_link
+- 💼 My Demonstration Video on constructing data flow: https://drive.google.com/drive/folders/1X4I3a8qs60QesiaoqrsJ_1wTPoOr0owu?usp=share_link
+- 📊 My Tableau Workbook: https://public.tableau.com/app/profile/joyce.xu6676/vizzes
 - 🌱 I’m currently learning NLP techniques
 - 📫 How to reach me: xuzq0602@gmail.com
 
